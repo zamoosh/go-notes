@@ -1,4 +1,5 @@
 {
   "interfaceFontFamily": "Vazirmatn",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font,Vazirmatn",
+  "textFontFamily": "Vazirmatn"
 }

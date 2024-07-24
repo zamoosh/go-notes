@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "01b921a4e6dbf241",
+        "id": "cc6852c780900114",
         "type": "tabs",
         "children": [
           {
-            "id": "69c17aeb2103e5a1",
+            "id": "e34777ea98bcfe91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas",
+                "viewState": {
+                  "x": -595,
+                  "y": 545,
+                  "zoom": -1.5936744537702745
+                }
+              }
             }
           }
         ]
@@ -69,12 +76,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5
   },
   "right": {
     "id": "8972a8b9f552c9b1",
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas"
+              }
             }
           }
         ]
@@ -149,13 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dc4526ac872384c",
+  "active": "174f5a8d9124e5ca",
   "lastOpenFiles": [
+    "فرایند خرید کوین/فرایند خرید کوین.canvas",
+    "Pasted Image 20240724122230_976.svg",
+    "فرایند خرید کوین/Drawing 2024-07-24 12.19.57.excalidraw.md",
+    "Vault.md",
+    "فرایند خرید کوین/فرایند خرید کوین 2.canvas",
+    "فرایند خرید کوین/فرایند خرید کوین 1.canvas",
+    "فرایند خرید کوین/فرایند خرید کوین (copy).canvas",
+    "فرایند خرید کوین",
+    "Excalidraw/Drawing 2024-07-24 10.56.44.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-07-24 10.26.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-24 10.22.34.excalidraw.md",
     "select/empty select.md",
+    "Tags",
+    "map/make(map[string]any) VS map[string]any{}.md",
+    "map/map.md",
+    "map",
+    "Untitled.md",
     "select/Pasted image 20240720221943.png",
     "select/Untitled.md",
-    "Vault.md",
-    "Tags",
     "select",
     "README.md",
     "pointer/استفاده از کلیدواژه‌ی new در GO.md",

@@ -41,6 +41,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+    "//make",
     "/"
   ],
   "expandFolderOnClick": true,
