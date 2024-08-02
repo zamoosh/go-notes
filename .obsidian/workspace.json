@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc6852c780900114",
+        "id": "7b6b9101a1c160ee",
         "type": "tabs",
         "children": [
           {
-            "id": "e34777ea98bcfe91",
+            "id": "8625732b5c2d79d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas",
-                "viewState": {
-                  "x": -595,
-                  "y": 545,
-                  "zoom": -1.5936744537702745
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -76,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -96,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "فرایند خرید کوین/فرایند خرید کوین.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +149,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "174f5a8d9124e5ca",
+  "active": "8625732b5c2d79d2",
   "lastOpenFiles": [
+    "Excalidraw/mind_map.md",
+    "Excalidraw/استفاده از کلیدواژهی new در GO.md",
+    "Excalidraw/[[استفاده از کلیدواژهی new در GO]].md",
+    "font/JetBrainsMonoNerdFont-Regular.ttf",
+    "font/JetBrainsMonoNerdFont-Medium.ttf",
+    "font/JetBrainsMonoNerdFont-Italic.ttf",
+    "font/JetBrainsMonoNerdFont-Light.ttf",
+    "font/JetBrainsMonoNerdFont-Thin.ttf",
+    "font/JetBrainsMonoNerdFont-Bold.ttf",
+    "Vazirmatn-Regular.ttf",
+    "font/Vazirmatn-Regular.ttf",
+    "font",
+    "map/make(map[string]any) VS map[string]any{}.md",
+    "pointer/استفاده از کلیدواژه‌ی new در GO.md",
     "فرایند خرید کوین/فرایند خرید کوین.canvas",
     "Pasted Image 20240724122230_976.svg",
     "فرایند خرید کوین/Drawing 2024-07-24 12.19.57.excalidraw.md",
@@ -169,21 +173,13 @@
     "فرایند خرید کوین/فرایند خرید کوین 1.canvas",
     "فرایند خرید کوین/فرایند خرید کوین (copy).canvas",
     "فرایند خرید کوین",
-    "Excalidraw/Drawing 2024-07-24 10.56.44.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2024-07-24 10.26.08.excalidraw.md",
     "Excalidraw/Drawing 2024-07-24 10.22.34.excalidraw.md",
     "select/empty select.md",
-    "Tags",
-    "map/make(map[string]any) VS map[string]any{}.md",
     "map/map.md",
-    "map",
     "Untitled.md",
     "select/Pasted image 20240720221943.png",
     "select/Untitled.md",
-    "select",
-    "README.md",
-    "pointer/استفاده از کلیدواژه‌ی new در GO.md",
-    "pointer"
+    "README.md"
   ]
 }
