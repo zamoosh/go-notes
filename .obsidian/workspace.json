@@ -11,8 +11,12 @@
             "id": "8625732b5c2d79d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "map/map, nil map and initialing a map.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "map/map, nil map and initialing a map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "map/map, nil map and initialing a map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "map/map, nil map and initialing a map.md"
+              }
             }
           }
         ]
@@ -151,6 +159,12 @@
   },
   "active": "8625732b5c2d79d2",
   "lastOpenFiles": [
+    "map/map.md",
+    "map/map, nil map and initialing a map.md",
+    "map/make(map[string]any) VS map[string]any{}.md",
+    "pointer/استفاده از کلیدواژه‌ی new در GO.md",
+    "select/empty select.md",
+    "select/Pasted image 20240720221943.png",
     "Excalidraw/mind_map.md",
     "Excalidraw/استفاده از کلیدواژهی new در GO.md",
     "Excalidraw/[[استفاده از کلیدواژهی new در GO]].md",
@@ -163,8 +177,6 @@
     "Vazirmatn-Regular.ttf",
     "font/Vazirmatn-Regular.ttf",
     "font",
-    "map/make(map[string]any) VS map[string]any{}.md",
-    "pointer/استفاده از کلیدواژه‌ی new در GO.md",
     "فرایند خرید کوین/فرایند خرید کوین.canvas",
     "Pasted Image 20240724122230_976.svg",
     "فرایند خرید کوین/Drawing 2024-07-24 12.19.57.excalidraw.md",
@@ -175,10 +187,7 @@
     "فرایند خرید کوین",
     "Excalidraw/Drawing 2024-07-24 10.26.08.excalidraw.md",
     "Excalidraw/Drawing 2024-07-24 10.22.34.excalidraw.md",
-    "select/empty select.md",
-    "map/map.md",
     "Untitled.md",
-    "select/Pasted image 20240720221943.png",
     "select/Untitled.md",
     "README.md"
   ]
