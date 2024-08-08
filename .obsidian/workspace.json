@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6b9101a1c160ee",
+        "id": "d69bd32311f0db75",
         "type": "tabs",
         "children": [
           {
-            "id": "8625732b5c2d79d2",
+            "id": "99a6cb2e3fb098b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "map/map, nil map and initialing a map.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "map/map, nil map and initialing a map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "map/map, nil map and initialing a map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "map/map, nil map and initialing a map.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8625732b5c2d79d2",
+  "active": "99a6cb2e3fb098b7",
   "lastOpenFiles": [
-    "map/map.md",
+    "array/Array in GO.md",
+    "interface/interface_variable.md",
+    "array",
+    "slice",
+    "Untitled.md",
+    "interface",
+    "README.md",
     "map/map, nil map and initialing a map.md",
+    "map/map.md",
     "map/make(map[string]any) VS map[string]any{}.md",
     "pointer/استفاده از کلیدواژه‌ی new در GO.md",
     "select/empty select.md",
@@ -175,8 +173,6 @@
     "font/JetBrainsMonoNerdFont-Thin.ttf",
     "font/JetBrainsMonoNerdFont-Bold.ttf",
     "Vazirmatn-Regular.ttf",
-    "font/Vazirmatn-Regular.ttf",
-    "font",
     "فرایند خرید کوین/فرایند خرید کوین.canvas",
     "Pasted Image 20240724122230_976.svg",
     "فرایند خرید کوین/Drawing 2024-07-24 12.19.57.excalidraw.md",
@@ -184,11 +180,8 @@
     "فرایند خرید کوین/فرایند خرید کوین 2.canvas",
     "فرایند خرید کوین/فرایند خرید کوین 1.canvas",
     "فرایند خرید کوین/فرایند خرید کوین (copy).canvas",
-    "فرایند خرید کوین",
     "Excalidraw/Drawing 2024-07-24 10.26.08.excalidraw.md",
     "Excalidraw/Drawing 2024-07-24 10.22.34.excalidraw.md",
-    "Untitled.md",
-    "select/Untitled.md",
-    "README.md"
+    "select/Untitled.md"
   ]
 }
