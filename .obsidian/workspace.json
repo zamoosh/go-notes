@@ -11,8 +11,12 @@
             "id": "99a6cb2e3fb098b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "interface/Interface Variable.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "interface/Interface Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "interface/Interface Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "interface/Interface Variable.md"
+              }
             }
           }
         ]
@@ -150,8 +158,9 @@
   },
   "active": "99a6cb2e3fb098b7",
   "lastOpenFiles": [
-    "array/Array in GO.md",
     "interface/interface_variable.md",
+    "interface/Interface Variable.md",
+    "array/Array in GO.md",
     "array",
     "slice",
     "Untitled.md",

@@ -1,5 +1,8 @@
 ## Prompt:
-hello chat, I have a problem with typing in golang and I want you please help me if you can... here is project structure: 
+hello chat, I have a problem with typing in GO and I want you please help me if you can... here is project structure: 
+
+
+```
 .
 ├── go.mod
 ├── main.go
@@ -7,6 +10,8 @@ hello chat, I have a problem with typing in golang and I want you please help me
 │   └── models.go
 └── person
     └── models.go
+```
+
 
 
 man/models.go:
