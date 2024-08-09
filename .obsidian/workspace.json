@@ -11,8 +11,12 @@
             "id": "92582a7234bb4ad0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -148,9 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "174f5a8d9124e5ca",
+  "active": "92582a7234bb4ad0",
   "lastOpenFiles": [
+    "ob.md",
     "README.md",
+    "static/img/obsidian-icon.png",
+    "static/img/obsidian.png",
+    "static/img",
+    "static",
     "pointer/استفاده از کلیدواژه‌ی new در GO.md",
     "interface/Interface Variable.md",
     "interface/interface_variable.md",
@@ -172,8 +185,6 @@
     "font/JetBrainsMonoNerdFont-Italic.ttf",
     "font/JetBrainsMonoNerdFont-Light.ttf",
     "font/JetBrainsMonoNerdFont-Thin.ttf",
-    "font/JetBrainsMonoNerdFont-Bold.ttf",
-    "Vazirmatn-Regular.ttf",
     "فرایند خرید کوین/فرایند خرید کوین.canvas",
     "Pasted Image 20240724122230_976.svg",
     "فرایند خرید کوین/Drawing 2024-07-24 12.19.57.excalidraw.md",

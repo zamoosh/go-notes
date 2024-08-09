@@ -9,6 +9,10 @@
 It's an **open source** note taking app to help you manage your note in nice way! try it, you will love it💜. You can read more about it in link below.
 
 
+![obsidian logo](./static/img/obsidian-icon.png)
+![]()
+
+
 ### Obsidian Official Website:
 https://obsidian.md/
 
