@@ -42,7 +42,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//make",
-    "/"
+    "/",
+    "//pointer"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
